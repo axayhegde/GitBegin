@@ -1,7 +1,4 @@
 # GitBegin
-#<h1>Welcome to GitBegin</h1>
+<h1>Welcome to GitBegin</h1>
 
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+Just a collection of simple programs to get familiar with Github
